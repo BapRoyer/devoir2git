@@ -61,7 +61,7 @@ Il faut ajouter le nouvel environnement au jupyter notebook
 <!-- If you created a new virtual environment, you'll need to add it as a new kernel in Jupyter notebook. To do so, we use `ipykernel`: -->
 
 ```
-python -m ipykernel install --user --name=.ieee-venv
+python -m ipykernel install --user --name=.phq598-devoir2
 ```
 <!-- We now have a new kernel called `.phq598-devoir2` inside of our notebooks. -->
 
