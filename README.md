@@ -29,9 +29,9 @@ Sur Windows
 
 ```
 # Dans cmd.exe
-.ieee-venv\Scripts\activate.bat
+.phq598-devoir2\Scripts\activate.bat
 # Dans PowerShell
-.ieee-venv\Scripts\Activate.ps1
+.phq598-devoir2\Scripts\Activate.ps1
 ```
 Sur Linux et MacOS:
 
