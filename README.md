@@ -7,7 +7,7 @@
 On commence par clôner le répertoire, and on entre dans le nouveau répertoire
 
 ```
-git clone https://github.com/BapRoyer/PHQ598devoir2.git
+git clone https://github.com/BapRoyer/devoir2git.git
 cd devoir2git
 ```
 
